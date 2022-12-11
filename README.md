@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my `secret orbital lab` 👋
+
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 <!--
 **julienlietard/julienlietard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
